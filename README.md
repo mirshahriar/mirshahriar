@@ -45,7 +45,7 @@
 
 <div align="center">
   
-![snake animation](https://github.com/mirshahriar/mirshahriar/blob/output/ocean.gif?color_snake=blue&color_dots=#C5E8B7,#ABE098,#83D475,#57C84D,#2EB62C)
+![snake animation](https://github.com/mirshahriar/mirshahriar/blob/output/ocean.gif?color_snake=blue&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39)
 
 </div>
 
