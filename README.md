@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-<div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+
+
+<div align="center">
 
 ![streak](https://streak-stats.demolab.com/?user=mirshahriar&hide_border=true&background=00000000&border=2980b9&stroke=2980b9&ring=27ae60&fire=red&currStreakNum=2980b9&sideNums=2980b9&currStreakLabel=2980b9&sideLabels=2980b9&dates=2980b9)
 
