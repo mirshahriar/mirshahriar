@@ -5,10 +5,6 @@ on:
     - cron: "* */12 * * *"
   workflow_dispatch:
 
-permissions:
-  pull-requests: write
-  issues: write
-  repository-projects: write
 
 jobs:
   build:
@@ -20,7 +16,7 @@ jobs:
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/github-contribution-grid-snake2.svg
+          svg_out_path: dist/github-snake.svg
           snake_color: 'blue'
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
