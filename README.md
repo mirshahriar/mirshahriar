@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![snake animation](https://github.com/mirshahriar/mirshahriar/blob/output/github-snake.svg)
+![snake animation](https://github.com/mirshahriar/mirshahriar/blob/output/github-contribution-grid-snake2.svg)
 
 <div align="center">
 
