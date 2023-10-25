@@ -1,19 +1,5 @@
 ### Hi there 👋
 
-![snake animation](https://github.com/mirshahriar/mirshahriar/blob/output/github-contribution-grid-snake2.svg)
-![snake animation](https://github.com/mirshahriar/mirshahriar/blob/output/github-snake.svg)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-<div align="center">
-
-![streak](https://streak-stats.demolab.com/?user=mirshahriar&hide_border=true&background=00000000&border=2980b9&stroke=2980b9&ring=27ae60&fire=red&currStreakNum=2980b9&sideNums=2980b9&currStreakLabel=2980b9&sideLabels=2980b9&dates=2980b9)
-
-</div>
 
 <div align="center">
 
@@ -54,6 +40,12 @@
 
 
 </p>
+
+</div>
+
+<div align="center">
+  
+![snake animation](https://github.com/mirshahriar/mirshahriar/blob/output/ocean.gif?color_snake=blue&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9)
 
 </div>
 
